@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/maimi/easyfont/customfont/EasyFonts.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/maimi/easyfont/customfont/FontSourceProcessor.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/Font License.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/LICENSE.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/NOTICE" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/androidnation.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/androidnation_b.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/androidnation_i.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/cac_champagne.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/capture_it.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/capture_it_2.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/caviar_dreams_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/caviardreams.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/caviardreams_bolditalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/caviardreams_italic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/droid_robot_jp2.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/droidserif_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/droidserif_bolditalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/droidserif_italic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/droidserif_regular.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/freedom.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/fun_raiser.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/green_avocado.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ostrich_black.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ostrich_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ostrich_dashed.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ostrich_light.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ostrich_regular.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/ostrich_rounded.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/readme_JP2.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/recognition.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_black.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_blackitalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_bolditalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_italic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_light.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_lightitalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_medium.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_mediumitalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_regular.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_thin.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/roboto_thinitalic.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/tangerine_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/tangerine_regular.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_black.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_freeware_license.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_oblique.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_oblique_black.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_oblique_bold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_oblique_semibold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_oblique_ultrabold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_semibold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/walkway_ultrabold.ttf" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/windsong.ttf" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
